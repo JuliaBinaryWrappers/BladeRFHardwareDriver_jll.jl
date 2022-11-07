@@ -1,0 +1,127 @@
+[[BladeRFHardwareDriver]]
+arch = "aarch64"
+git-tree-sha1 = "ca0ade8c603a29fa91e0df0e60501013da0cbee6"
+os = "macos"
+
+    [[BladeRFHardwareDriver.download]]
+    sha256 = "73a86ce19e626e97bca29266b8a58fe347f1f07329c651154429020c3413b960"
+    url = "https://github.com/JuliaBinaryWrappers/BladeRFHardwareDriver_jll.jl/releases/download/BladeRFHardwareDriver-v2.4.1+0/BladeRFHardwareDriver.v2.4.1.aarch64-apple-darwin.tar.gz"
+[[BladeRFHardwareDriver]]
+arch = "aarch64"
+git-tree-sha1 = "2fbc75e054f641167d60b5c11fd7f223779c6aa7"
+libc = "glibc"
+os = "linux"
+
+    [[BladeRFHardwareDriver.download]]
+    sha256 = "bfcef385a2f211fd766f82fabcf87bceb93f99f1880abe701a51935b8f79864f"
+    url = "https://github.com/JuliaBinaryWrappers/BladeRFHardwareDriver_jll.jl/releases/download/BladeRFHardwareDriver-v2.4.1+0/BladeRFHardwareDriver.v2.4.1.aarch64-linux-gnu.tar.gz"
+[[BladeRFHardwareDriver]]
+arch = "aarch64"
+git-tree-sha1 = "a5f436d2bfdf25c4da2adb0e5bf9600484d6ab30"
+libc = "musl"
+os = "linux"
+
+    [[BladeRFHardwareDriver.download]]
+    sha256 = "14e29c2d4125918c25a1baa21baba61cd7fcc430e8f79a6851866ec9836b53f6"
+    url = "https://github.com/JuliaBinaryWrappers/BladeRFHardwareDriver_jll.jl/releases/download/BladeRFHardwareDriver-v2.4.1+0/BladeRFHardwareDriver.v2.4.1.aarch64-linux-musl.tar.gz"
+[[BladeRFHardwareDriver]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "bc7b15aa51f1ec132736318d6399ba251ee4fd3e"
+libc = "glibc"
+os = "linux"
+
+    [[BladeRFHardwareDriver.download]]
+    sha256 = "f94cd6f00f252f7ee5e7ecf15b152adaf18cd00b1073406760678e9352bc3b08"
+    url = "https://github.com/JuliaBinaryWrappers/BladeRFHardwareDriver_jll.jl/releases/download/BladeRFHardwareDriver-v2.4.1+0/BladeRFHardwareDriver.v2.4.1.armv6l-linux-gnueabihf.tar.gz"
+[[BladeRFHardwareDriver]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "fefbfd6f4ebbc8843d683189c98ff0f6352de35f"
+libc = "musl"
+os = "linux"
+
+    [[BladeRFHardwareDriver.download]]
+    sha256 = "d4bae919511c3150cf47f93cf624584f0b821fc0ca1c276599d3f77e467d7651"
+    url = "https://github.com/JuliaBinaryWrappers/BladeRFHardwareDriver_jll.jl/releases/download/BladeRFHardwareDriver-v2.4.1+0/BladeRFHardwareDriver.v2.4.1.armv6l-linux-musleabihf.tar.gz"
+[[BladeRFHardwareDriver]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "36faabda96cb342a69e4e9ad4a868170d789f58b"
+libc = "glibc"
+os = "linux"
+
+    [[BladeRFHardwareDriver.download]]
+    sha256 = "48bee3301fd8290219a5560ce5411357880555642d2c5a4fc0c41239faf1389c"
+    url = "https://github.com/JuliaBinaryWrappers/BladeRFHardwareDriver_jll.jl/releases/download/BladeRFHardwareDriver-v2.4.1+0/BladeRFHardwareDriver.v2.4.1.armv7l-linux-gnueabihf.tar.gz"
+[[BladeRFHardwareDriver]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4c845f23a7c0688b2ee801290c7a71da747c2f37"
+libc = "musl"
+os = "linux"
+
+    [[BladeRFHardwareDriver.download]]
+    sha256 = "ddaa098bfa7e9feeb4258e56d6dc155db674834e03469fa9eac85fea45a2d6f9"
+    url = "https://github.com/JuliaBinaryWrappers/BladeRFHardwareDriver_jll.jl/releases/download/BladeRFHardwareDriver-v2.4.1+0/BladeRFHardwareDriver.v2.4.1.armv7l-linux-musleabihf.tar.gz"
+[[BladeRFHardwareDriver]]
+arch = "i686"
+git-tree-sha1 = "8c737c20f973e6869812272848b683b92c19214a"
+libc = "glibc"
+os = "linux"
+
+    [[BladeRFHardwareDriver.download]]
+    sha256 = "d41abaad2b48f7037a73e0cfd8d5afdc617a64fbda6e05312b931caca7b2fe7b"
+    url = "https://github.com/JuliaBinaryWrappers/BladeRFHardwareDriver_jll.jl/releases/download/BladeRFHardwareDriver-v2.4.1+0/BladeRFHardwareDriver.v2.4.1.i686-linux-gnu.tar.gz"
+[[BladeRFHardwareDriver]]
+arch = "i686"
+git-tree-sha1 = "c546b2c91715c726e0a38632d1dc144cdbdf362d"
+libc = "musl"
+os = "linux"
+
+    [[BladeRFHardwareDriver.download]]
+    sha256 = "e7dd429f3a93d8ceef0ee004f806f0609b847f81bfadcf65a6dc07a0eb6820ca"
+    url = "https://github.com/JuliaBinaryWrappers/BladeRFHardwareDriver_jll.jl/releases/download/BladeRFHardwareDriver-v2.4.1+0/BladeRFHardwareDriver.v2.4.1.i686-linux-musl.tar.gz"
+[[BladeRFHardwareDriver]]
+arch = "powerpc64le"
+git-tree-sha1 = "3dca2db0079047ab45afb663682a241ee11c7166"
+libc = "glibc"
+os = "linux"
+
+    [[BladeRFHardwareDriver.download]]
+    sha256 = "f9ac67a536a094958c91ea95b23e1a671b69494a114ea62deb12e88e7c9aef8a"
+    url = "https://github.com/JuliaBinaryWrappers/BladeRFHardwareDriver_jll.jl/releases/download/BladeRFHardwareDriver-v2.4.1+0/BladeRFHardwareDriver.v2.4.1.powerpc64le-linux-gnu.tar.gz"
+[[BladeRFHardwareDriver]]
+arch = "x86_64"
+git-tree-sha1 = "a0d0ff8877fe22a3d5a63b44ca55cf8f4bebadd3"
+os = "macos"
+
+    [[BladeRFHardwareDriver.download]]
+    sha256 = "001cb96ad0780d2502778a865298eb889740b039d90e65c1d76f8db791802c4e"
+    url = "https://github.com/JuliaBinaryWrappers/BladeRFHardwareDriver_jll.jl/releases/download/BladeRFHardwareDriver-v2.4.1+0/BladeRFHardwareDriver.v2.4.1.x86_64-apple-darwin.tar.gz"
+[[BladeRFHardwareDriver]]
+arch = "x86_64"
+git-tree-sha1 = "2d84bf5dd69aa37166c21d00b7995d4cd891af0e"
+libc = "glibc"
+os = "linux"
+
+    [[BladeRFHardwareDriver.download]]
+    sha256 = "4f16f274e9bff0350cac26d69e716f4f19cbf1ffa2a510aa9226eb93b4fba6dd"
+    url = "https://github.com/JuliaBinaryWrappers/BladeRFHardwareDriver_jll.jl/releases/download/BladeRFHardwareDriver-v2.4.1+0/BladeRFHardwareDriver.v2.4.1.x86_64-linux-gnu.tar.gz"
+[[BladeRFHardwareDriver]]
+arch = "x86_64"
+git-tree-sha1 = "1dd52bbfa1b9515d1131f40cb53b849148cf1353"
+libc = "musl"
+os = "linux"
+
+    [[BladeRFHardwareDriver.download]]
+    sha256 = "cd248f734ca4e1cbe436d807db384a4dbf1c856ea492842d986ba80076f5d801"
+    url = "https://github.com/JuliaBinaryWrappers/BladeRFHardwareDriver_jll.jl/releases/download/BladeRFHardwareDriver-v2.4.1+0/BladeRFHardwareDriver.v2.4.1.x86_64-linux-musl.tar.gz"
+[[BladeRFHardwareDriver]]
+arch = "x86_64"
+git-tree-sha1 = "7dbd384285dbd24f7f938245c38331685a4013a5"
+os = "freebsd"
+
+    [[BladeRFHardwareDriver.download]]
+    sha256 = "57e223d9e3b0d17ede78325a7850afe84565c1d58ddc9586ba2a92fdbfb7594f"
+    url = "https://github.com/JuliaBinaryWrappers/BladeRFHardwareDriver_jll.jl/releases/download/BladeRFHardwareDriver-v2.4.1+0/BladeRFHardwareDriver.v2.4.1.x86_64-unknown-freebsd.tar.gz"
